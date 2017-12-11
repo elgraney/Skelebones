@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Skelebones:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Skelebones_jar</output-path>
+    <root id="archive" name="Skelebones.jar">
+      <element id="module-output" name="Skelebones" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

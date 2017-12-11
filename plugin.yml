@@ -1,0 +1,7 @@
+name: MattTest
+main: Plugin
+version: 1
+commands:
+    matt:
+      usage: /matt
+      description: MATT! MATT! MATT!

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="worldguard-6.2.1">
+    <CLASSES>
+      <root url="jar://F:/Downloads/worldguard-6.2.1.jar!/" />
+      <root url="jar://F:/Downloads/TitleManager-2.0.7.jar!/" />
+      <root url="jar://F:/Downloads/Towny_1.jar!/" />
+      <root url="jar://F:/Downloads/spigot-1.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Downloads/spigot-1.12.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
